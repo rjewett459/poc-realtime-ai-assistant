@@ -1,7 +1,6 @@
 {
   "browser_urls": [
-    "https://aider.chat",
-    "https://simonwillison.net",
+    "https://chatsites.ai",
     "https://hackernews.com",
     "https://chat.openai.com",
     "https://notebooklm.google.com",
@@ -15,7 +14,7 @@
   ],
   "browser_command": "open -a 'Google Chrome'",
   "ai_assistant_name": "Ada",
-  "human_name": "Dan",
+  "human_name": "Rick",
   "sql_dialect": "duckdb",
   "system_message_suffix": "Keep all of your responses ultra short. Say things like: 'Task complete', 'There was an error', 'I need more information'."
 }
